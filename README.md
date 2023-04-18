@@ -1,3 +1,5 @@
 # Jogo-de-dados-2
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-96a3ow)
+Esse stackblitz é completamente bugado, o CSS está funcionando normalmente no VSCode.
+
+o link para acessar este código é este: https://js-96a3ow.stackblitz.io
